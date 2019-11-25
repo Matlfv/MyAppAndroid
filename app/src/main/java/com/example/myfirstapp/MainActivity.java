@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         showCountTextView.setText(count.toString());
     }
     private static final String TOTAL_COUNT = "total_count";
+    public void test(){}
     public void randomMe(View view)
     {
 
